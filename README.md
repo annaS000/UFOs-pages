@@ -13,7 +13,7 @@
 ---
 
 ## **How to Use Filter Search**
-
+[Click Here to View the Page](https://annas000.github.io/UFOs-pages/)
 ### **Navigate to Filter Search**
 1. Scroll Down to the Table
     ![](https://github.com/annaS000/UFOs-pages/blob/main/static/images/fixed-format-1.jpg?raw=true)
