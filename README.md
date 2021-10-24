@@ -22,8 +22,11 @@
     ![](https://github.com/annaS000/UFOs-pages/blob/main/static/images/filter-1.jpg?raw=true)
     > Once clicked, the sidebar will appear. Now, the user may use the input fields (these have been labeled with the red asterisks) by typing their desired results. The user does not have to use all given fields if they choose not to; the table will only filter the information submitted.
 3. **Enter Searches to Filter**
-    ![]() 
-    >Once the user has typed in the results they would like to see, after the user has hit the `Enter` key, the filters will then show all data that match the input searches. If the user would like to see the original table again they may refresh the page or clear the fields they no longer wish to see and press `Enter` again.
+    ![](https://github.com/annaS000/UFOs-pages/blob/main/static/images/oval.png?raw=true) 
+    >Once the user has typed in the results they would like to see, after the user has hit the `Enter` key, the filters will then show all data that match the input searches. If the user would like to see the original table again they may refresh the page or clear the fields they no longer wish to see and press `Enter` again. 
+ 4. **View Table Results**   
+    ![]()
+    >To view the table, the user can click off the sidebar to close it.
 ---
 
 ## **Summary**
