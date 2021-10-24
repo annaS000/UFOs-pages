@@ -1,14 +1,14 @@
 # **UFOs**
 ## **Overview**
-> In this project, we use JavaScript, CSS, and HTML to create a webpage that display information on different UFO sightings around the world. This data is stored in a table that was created with the D3.js library. Additionally, we have written functions to manipulate the table data in a Filter Search. Since there is a lot of information on this webpage, the Filter Search allows the user to view only the information that is of interest to them. Below, we will walk through how the filters work.
+> In this project, we use JavaScript, CSS, and HTML to create a webpage that display information on different UFO sightings around the world. This [data](https://github.com/annaS000/UFOs-pages/blob/main/static/js/data.js) is stored in a table that was created with the D3.js library. Additionally, we have written functions to manipulate the table data in a Filter Search. Since there is a lot of information on this webpage, the Filter Search allows the user to view only the information that is of interest to them. Below, we will walk through how the filters work.
 
 ---
 
 ## **Code Used:**
-* [HTML]()
-* [JS]()
-* [CSS]()
-* [Images]()
+* HTML: [index.html](https://github.com/annaS000/UFOs-pages/blob/main/index.html)
+* JS: [app.js](https://github.com/annaS000/UFOs-pages/blob/main/static/js/app.js)
+* CSS: [style.css](https://github.com/annaS000/UFOs-pages/blob/main/static/css/style.css)
+* [Images](https://github.com/annaS000/UFOs-pages/tree/main/static/images)
 
 ---
 
@@ -25,7 +25,7 @@
     ![](https://github.com/annaS000/UFOs-pages/blob/main/static/images/oval.png?raw=true) 
     >Once the user has typed in the results they would like to see, after the user has hit the `Enter` key, the filters will then show all data that match the input searches. If the user would like to see the original table again they may refresh the page or clear the fields they no longer wish to see and press `Enter` again. 
  4. **View Table Results**   
-    ![]()
+    ![](https://github.com/annaS000/UFOs-pages/blob/main/static/images/oval_table.png?raw=true)
     >To view the table, the user can click off the sidebar to close it.
 ---
 
@@ -33,6 +33,7 @@
 ### **Original Assignment**
 ![](https://github.com/annaS000/UFOs-pages/blob/main/static/images/original-page.png?raw=true)
 >In the original assignment, we were just asked to create filters for the table and have the input fields be displayed on the side of the table. While I was able to create this, I wasn't very satisfied with how this looked on my page. So, I decided to put a collapsible sidebar on my page to store the filters when they are not being used.
+>> The code used to create the sidebar is from the library [Materialize.js](https://materializecss.com/sidenav.html). 
 ### **Drawbacks and Recommendations:**
 1. #### **No Submit/Reset Button**
     ![](https://github.com/annaS000/UFOs-pages/blob/main/static/images/filter.png?raw=true)
